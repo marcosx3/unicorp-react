@@ -1,0 +1,23 @@
+/* MAIN */
+#beginner {
+    min-height: 40vh;
+   /* img */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000;
+}
+.text-main {
+    margin-top: 5%;
+    padding-top: 30px ;
+    padding-left: 30px;
+}
+.text-main h1 {
+   
+    font-size: 2.6em;
+    font-weight: bold;
+}
+.text-main h3 {
+    margin-top: 100px;
+
+}

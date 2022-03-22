@@ -1,0 +1,12 @@
+/* NAV */ 
+#logo {
+    width: 250px;
+    margin-left: 20px;
+}
+
+#navBarLinks {
+    margin-right: 20px;
+}
+#navBarLinks a:hover {
+    color: red;
+}

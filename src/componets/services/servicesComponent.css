@@ -1,0 +1,13 @@
+/* SERVICES */
+.services {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.card-services {
+    border-radius: 10px;
+    width: 350px;
+}
